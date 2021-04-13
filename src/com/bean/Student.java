@@ -12,6 +12,16 @@ public class Student {
 		System.out.println("9999999999999999999");
 		System.out.println("9999999999999999999");
 		System.out.println("9999999999999999999");
+		System.out.println("9999999999999999999");
+		System.out.println("9999999999999999999");
+		System.out.println("9999999999999999999");
+		System.out.println("9999999999999999999");
+		System.out.println("9999999999999999999");
+		System.out.println("9999999999999999999");
+		System.out.println("yyyyyyyyyyyyyyyyyyy");
+		System.out.println("9999999999999999999");
+		System.out.println("9999999999999999999");
+		System.out.println("9999999999999999999");
 	}
 
 }
